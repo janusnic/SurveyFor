@@ -1,0 +1,142 @@
+.navbar-nav>li {
+	margin-right: 5px;
+}
+.toptwen{
+	margin-top: 20px;
+}
+.topforty{
+	margin-top: 40px;
+}
+.topety{
+	margin-top: 80px;margin-bottom: 20px;
+}
+.center{
+	text-align: center;
+}
+.right{
+	text-align: right;
+}
+.usage{
+	border-bottom: 1px #ddd solid;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+#footer{
+	background: #222;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
+	background-color: #222;
+}
+.navbar-nav>li>.dropdown-menu{
+	background: #222;
+}
+.navbar-nav>li>#login-form {
+	min-width: 280px;
+	width: 100%;
+	padding: 12px;
+}
+p.text-danger em{
+	font-size: 13px;
+}
+.error404 {
+	color: #222;
+	font-family: "Roboto Slab", 'Helvetica Neue', Helvetica, sans-serif;
+}
+}
+.not-found {
+	margin: 0;
+	font-size: 20px;
+}
+.error404 .entry-header {
+	border-bottom: 1px solid #222;
+	margin: 0 0 30px;
+}
+.error404 .entry-header .entry-title {
+	font-size: 350px;
+	font-weight: 100;
+	line-height: 1.0em;
+	letter-spacing: 5px;
+}
+.error404 h2 {
+	font-size: 45px;
+	font-weight: 100;
+}
+.error404 p {
+	font-size: 13px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	margin: 0;
+}
+#back {
+	text-decoration: underline;
+}
+#profile-nav, .survey-border, .settings-border{
+	margin-bottom: 30px;
+	border: 1px solid #CCC9C9;
+	border-radius: 4px;
+}
+.min-set{
+	min-height: 500px;
+}
+.no-padding{
+	padding: 0;
+	
+}
+.nav-pills.no-rad>li>a {
+	border-radius: 0;
+}
+.no-rad>li+li {
+	margin-left: 0;
+	margin-top: 0px;
+}
+.no-rad>li a {
+	border-top: 1px solid #f2f3f6;
+	padding: 15px;
+	border-right: 3px solid rgba(0,0,0,0);
+	background: #fff;
+}
+.no-rad>li>a:hover, .no-rad>li>a:focus {
+	background: #fafafa;
+	color: #1fb5ad;
+	border-right: 3px solid #428bca;
+}
+.no-rad>li.active>a, .no-rad>li.active>a:hover, .no-rad>li.active>a:focus {
+	background: #fafafa;
+	color: #1fb5ad;
+	border-right: 3px solid #428bca;
+}
+#create-surveys{
+	min-height: 500px;
+}
+.hr{
+	background:  #428bca;
+	height: 1px;
+}
+.button-click,a{
+	cursor: pointer;
+}
+.input-g{
+	margin-bottom: 10px;
+}
+.pager {
+	margin: 0 0;
+	text-align: left;
+}
+.like-panel{
+	margin-top: 0;
+	margin-bottom: 0;
+	font-size: 16px;
+	color: #a94442;
+}
+.modal-body{
+	
+}
+canvas#myChart{
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	position: relative;
+	margin: 0 auto;
+}
